@@ -6,8 +6,8 @@ It is important to understand how the folders & files are structured here.
 
 Each folder name contains a number at the end which represents on how to navigate various folders present.
 
-For eg. The following folder **Introduction-00** shows that a learner should start with the introduction folder as a start since the number 00 represents the start. 
+For eg. The following folder **Virtualization-01** shows that a learner should start with the Virtualization folder as a starting of the learning phase since the number 01 represents the start. 
 
 Anything more?
 
-No, Let's get started with the learning process now.
+Not really, Let's get started with the learning process now.
