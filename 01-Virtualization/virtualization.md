@@ -40,7 +40,7 @@ Take a pause here and ask yourself - Did you understand why was there a need ot 
 
 Hypervisor is the software which enables the process of virtualization. Look at the picture below:
 
-![Virtual Machine!](/Virtualization-01/images/VM.png)
+![Virtual Machine!](/01-Virtualization/images/VM.png)
 
 It is to be noted that a VM takes the storage as well as networking resources from the underlying computer/Host OS.
 
@@ -59,8 +59,8 @@ There are two types of Hypervisor:
   
 - **Type-1:** This type of hypervisor performs exactly the same way as Type 2 hypervisor just the major difference is that in Type 1 hypervisor, the hypervisor sits on the top of the Hardware and takes resources from the Hardware itself instead of any Host OS. Type 1 is mainly used in production. For eg. Microsoft HV.
 
-![Hypervisor!](/Virtualization-01/images/Hypervisor.png)
-![Hypervisor-!](/Virtualization-01/images/Hypervisor-01.png)
+![Hypervisor!](/01-Virtualization/images/Hypervisor-01.png)
+![Hypervisor-!](/01-Virtualization/images/Hypervisor.png)
 
 Apart from reading this, it is highly recommend to go through the following [resource](https://youtu.be/mQP0wqNT_DI) to get a better understanding about virtualization.
 
