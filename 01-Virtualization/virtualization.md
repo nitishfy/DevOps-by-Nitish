@@ -47,7 +47,7 @@ It is to be noted that a VM takes the storage as well as networking resources fr
 A Host OS is the OS/computer which is being virtualized.
 A Guest OS is the OS which results as a byproduct after the Host OS has been virtualized.
 
-For eg. If I dual boot my windows machine such that Linux OS should be present as well, then windows is the Host OS whereas Linux is the Guest OS. The Linux OS would take resources from the underlying OS (Windows) from which it has been virtualized. 
+Here's an interesting thiing to know about. When you dual boot your machine, you're not making a virtual machine out of it. Dual booting is not creating a VM. In virtualisation, you can access both Operating System simulatenously. However in dual boot, you can't access/use both Operating System simultaneousy. 
 
 Hypervisor partitions the hardware of host OS and assigns the required resources to the virtual machines you created. 
 
