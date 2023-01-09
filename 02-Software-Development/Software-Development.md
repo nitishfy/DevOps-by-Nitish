@@ -17,11 +17,15 @@ SDLC refers to the various steps that are required to build a software or an app
 **7. Observability & Monitoring:** Once the code has been deployed on the servers using artifact, the end users can start using the application. Now, there might be new errors that users would generally come across. Similarly, there might be new features that development team would like to implement. Hence, in this phase new features to the application, Bug-fixes are generally done for the betterment of the application.
 
 All this process goes on and on representing an infinite cycle. DevOps in general try to reduce each barrier that leads to delay in the new release of the software. Hence, DevOps has a symbol of infinity!
-![SDLC!](//02-Software-Development/images/SDLC.png)
+
+![SDLC](https://user-images.githubusercontent.com/94682026/211336899-91e144d8-c6dd-4171-ad25-6ad709bd7106.png)
+
 
 All the steps mentioned above when executed in the sequence leads to the formation of a model called as **Waterfall model.** In Waterfall model, the next phase is only executed once the previous phase has completely been executed.
 
-![waterfall model!](/images/sdlc_waterfall_model.jpg)
+
+![waterfall_model](https://user-images.githubusercontent.com/94682026/211337231-9ecfb866-fe05-48f1-8562-6604ed8d3f20.jpg)
+
 
 The Waterfall model has a lot of disadvantages. For eg. You can't move to another phase unless and until the previous phase has been completed. Apart from that, It is very difficult here to go back and change something that was not well thought out in the planning. Working software is produced very late in the lifecycle.
 
@@ -31,7 +35,9 @@ Let's take a look at what is an Agile model.
 
 In Agile model, the tasks are divided into various iterations such that the entire team focuses on the tasks present in a single iteration. New ideas can be injected in the next iterations.
 
-![agile_model!](/images/sdlc_agile_model.jpg)
+
+![agile_model](https://user-images.githubusercontent.com/94682026/211337273-4af19d56-d76e-4730-a77a-d5efeee531e2.jpg)
+
 
 Do you think Agile model is a good fit of developing an software? Well probably No. There are various iterations that are involved here due to which frequent code changes occurs. Hence it can really become messy for the Operations team to deploy the code to servers if the code is being changed frequently.
 
