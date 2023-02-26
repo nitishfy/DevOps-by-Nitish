@@ -6,4 +6,4 @@ Now that you've come to know about what is Continous Integration(CI), learning a
 
 **Continous Deployment(CD)**: This is almost same as Continuous Delivery. However, there's one additional step that is taken in consideration. In Continuous Delivery(CD), the code changes are deployed to the production manually. However, in Continous Deployment, code changes are deployed to the production in an automated way after the code passes user acceptance testing
 
-![CD](/05-Continuous-Delivery/CI-CD.png)
+![CD](/05-Continuous-Delivery/images/CI-CD.png)
