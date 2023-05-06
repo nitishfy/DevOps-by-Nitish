@@ -10,7 +10,7 @@ Again, before understanding the concept of Virtualization, we need to understand
 
 ## Before Virtualization
 
-Earlier before the concept of virtualization was introducted, the different services of an appication used to run on different servers. This means that only one service can run on one server. For eg. Web service of an appication can run only on one server whereas Database service of the same application would require to run on some different server. 
+Earlier before the concept of virtualization was introducted, the different services of an application used to run on different servers. This means that only one service can run on one server. For eg. Web service of an application can run only on one server whereas Database service of the same application would require to run on some different server. 
 
 **Remember:** One Service, One Server, One Operating System.
 
@@ -47,7 +47,7 @@ It is to be noted that a VM takes the storage as well as networking resources fr
 A Host OS is the OS/computer which is being virtualized.
 A Guest OS is the OS which results as a byproduct after the Host OS has been virtualized.
 
-Here's an interesting thiing to know about. When you dual boot your machine, you're not making a virtual machine out of it. Dual booting is not creating a VM. In virtualisation, you can access both Operating System simulatenously. However in dual boot, you can't access/use both Operating System simultaneousy. 
+Here's an interesting thing to know about. When you dual boot your machine, you're not making a virtual machine out of it. Dual booting is not creating a VM. In virtualisation, you can access both Operating System simulatenously. However in dual boot, you can't access/use both Operating System simultaneousy. 
 
 Hypervisor partitions the hardware of host OS and assigns the required resources to the virtual machines you created. 
 
